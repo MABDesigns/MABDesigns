@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MABDesigns](https://github.com/MABDesigns)
 
-- 💬 Ask me about **php, js, mysql, wordpress, aws**
-
 - 📫 How to reach me **bdeiramostephamine@pm.me**
 
 ### Blogs posts
