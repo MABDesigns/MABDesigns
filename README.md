@@ -18,7 +18,7 @@ Passionate full-stack engineer with 5+ years of hands-on experience in developin
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
+### 😂 Random Dev Memes
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
