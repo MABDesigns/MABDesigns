@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate full-stack engineer with 5+ years of hands-on experience in developing scalable websites / applications using a wide range of front-end and back-end skills like HTML, CSS, PHP, JavaScript, etc. Developed lot of websites such as Chadli Bendjedid University website and Bikaimport company. Looking to further enhance framework skills as the future full stack developer.<br><br>    🔭 I’m currently working on JAVA Desktop Apps<br><br>    🌱 I’m currently learning Codelgniter<br><br>    👨‍💻 All of my projects are available at https://github.com/MABDesigns<br><br>    📫 How to reach me bdeiramostephamine@pm.me<br>
+Passionate full-stack engineer with 5+ years of hands-on experience in developing scalable websites / applications using a wide range of front-end and back-end skills like HTML, CSS, PHP, JavaScript, etc. Developed lot of websites such as Chadli Bendjedid University website and Bikaimport company. Looking to further enhance framework skills as the future full stack developer.<br><br>    🔭 I’m currently working on JAVA Desktop Apps<br><br>    🌱 I’m currently learning CodeIgniter<br><br>    👨‍💻 All of my projects are available at https://github.com/MABDesigns<br><br>    📫 How to reach me bdeiramostephamine@pm.me<br>
 
 
 ## 🌐 Socials:
