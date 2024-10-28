@@ -19,7 +19,7 @@ Passionate full-stack engineer with 5+ years of hands-on experience in developin
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Memes
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://meme-api.com/gimme" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mabdesigns&icon=5&color=6)](https://visitcount.itsvg.in)
