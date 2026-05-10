@@ -99,7 +99,7 @@ Full-Stack Web Developer with **7+ years of experience** building performant, sc
 
 ## 🌍 Languages
 
-🇩🇿 Arabic — Native &nbsp;|&nbsp; 🇬🇧 English — Fluent (C1) &nbsp;|&nbsp; 🇫🇷 French — Professional (B2)
+🇩🇿 Arabic — Native &nbsp;|&nbsp; 🇬🇧 English — Fluent (C1) &nbsp;|&nbsp; 🇫🇷 French — Professional (C1)
 
 ---
 
