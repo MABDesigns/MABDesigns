@@ -1,7 +1,7 @@
 <div align="center">
 
 # Bdeira Mostepha Amine
-### Full-Stack Web Developer · MSc AI Systems
+### Full-Stack Web Developer · Lead Dev @ Nutri-Saha · MSc AI Systems
 
 [![Email](https://img.shields.io/badge/Email-bdeiramostephamine%40pm.me-blue?style=flat-square&logo=protonmail&logoColor=white)](mailto:bdeiramostephamine@pm.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-m4b007-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/m4b007)
@@ -16,6 +16,7 @@
 
 Full-Stack Web Developer with **7+ years of experience** building performant, scalable web applications — primarily with **CodeIgniter 4** and **Laravel**. I cover the entire development chain: database design, PHP back-end, responsive front-end, server administration, and SEO.
 
+Currently **Lead Developer** at [Nutri-Saha](https://nutri-saha.com), a digital health startup focused on nutrition and dietary tracking. I also hold a **Master's degree in Intelligent Computer Systems** (2024), with a thesis on deep learning applied to e-learning platforms.
 
 - 🏗️ Currently building: **nutri-saha.com** — full-stack nutrition platform
 - 🎓 Master's thesis: *Towards a Deep Learning-Based E-learning Platform* (AI-powered course recommendation & exercise generation)
@@ -86,11 +87,20 @@ Full-Stack Web Developer with **7+ years of experience** building performant, sc
 
 📄 **Master's Thesis:** [*Towards a Deep Learning-Based E-learning Platform*](https://github.com/MABDesigns) — AI-driven personalized course recommendation & automatic exercise generation.
 
+---
 
+## 💼 Experience
+
+**Lead Full-Stack Developer** · Nutri-Saha *(2024 – Present)* · Remote  
+**Full-Stack Developer (Freelance)** · M4B Designs *(2017 – 2023)* · Remote
+- 30+ custom web projects for SMEs, e-commerce businesses, and associations
+- Full project lifecycle: requirements, development, testing, deployment, support
+
+---
 
 ## 🌍 Languages
 
-🇩🇿 Arabic — Native &nbsp;|&nbsp; 🇬🇧 English — Fluent (C1) &nbsp;|&nbsp; 🇫🇷 French — Professional (C1)
+🇩🇿 Arabic — Native &nbsp;|&nbsp; 🇬🇧 English — Fluent (C1) &nbsp;|&nbsp; 🇫🇷 French — Professional (B2)
 
 ---
 
@@ -108,10 +118,61 @@ Full-Stack Web Developer with **7+ years of experience** building performant, sc
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=mabdesigns&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mabdesigns&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/mabdesigns/mabdesigns/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## ✍️ Dev Quote of the Day
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 😂 Random Dev Meme
+
+<div align="center">
+
+<img src="https://fmzzj9.csb.app/" width="512px"/>
+
+</div>
+
+---
+
 <div align="center">
 
 *Open to collaborations, freelance missions, and full-time remote opportunities.*
 
 [![Visit Count](https://visitcount.itsvg.in/api?id=mabdesigns&icon=5&color=6)](https://visitcount.itsvg.in)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/m4bdesigns)
 
 </div>
