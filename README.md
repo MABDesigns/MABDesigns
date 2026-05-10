@@ -16,7 +16,6 @@
 
 Full-Stack Web Developer with **7+ years of experience** building performant, scalable web applications — primarily with **CodeIgniter 4** and **Laravel**. I cover the entire development chain: database design, PHP back-end, responsive front-end, server administration, and SEO.
 
-Currently **Lead Developer** at [Nutri-Saha](https://nutri-saha.com), a digital health startup focused on nutrition and dietary tracking. I also hold a **Master's degree in Intelligent Computer Systems** (2024), with a thesis on deep learning applied to e-learning platforms.
 
 - 🏗️ Currently building: **nutri-saha.com** — full-stack nutrition platform
 - 🎓 Master's thesis: *Towards a Deep Learning-Based E-learning Platform* (AI-powered course recommendation & exercise generation)
