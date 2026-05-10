@@ -1,7 +1,7 @@
 <div align="center">
 
 # Bdeira Mostepha Amine
-### Full-Stack Web Developer · Lead Dev @ Nutri-Saha · MSc AI Systems
+### Full-Stack Web Developer · MSc AI Systems
 
 [![Email](https://img.shields.io/badge/Email-bdeiramostephamine%40pm.me-blue?style=flat-square&logo=protonmail&logoColor=white)](mailto:bdeiramostephamine@pm.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-m4b007-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/m4b007)
