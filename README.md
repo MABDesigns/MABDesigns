@@ -86,16 +86,7 @@ Full-Stack Web Developer with **7+ years of experience** building performant, sc
 
 📄 **Master's Thesis:** [*Towards a Deep Learning-Based E-learning Platform*](https://github.com/MABDesigns) — AI-driven personalized course recommendation & automatic exercise generation.
 
----
 
-## 💼 Experience
-
-**Lead Full-Stack Developer** · Nutri-Saha *(2024 – Present)* · Remote  
-**Full-Stack Developer (Freelance)** · M4B Designs *(2017 – 2023)* · Remote
-- 30+ custom web projects for SMEs, e-commerce businesses, and associations
-- Full project lifecycle: requirements, development, testing, deployment, support
-
----
 
 ## 🌍 Languages
 
