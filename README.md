@@ -5,7 +5,6 @@
 
 [![Email](https://img.shields.io/badge/Email-bdeiramostephamine%40pm.me-blue?style=flat-square&logo=protonmail&logoColor=white)](mailto:bdeiramostephamine@pm.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-m4b007-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/m4b007)
-[![Portfolio](https://img.shields.io/badge/Nutri--Saha-nutri--saha.com-22C55E?style=flat-square&logo=firefox&logoColor=white)](https://nutri-saha.com)
 [![Phone](https://img.shields.io/badge/Tel-0615218814-gray?style=flat-square&logo=phone&logoColor=white)](tel:0615218814)
 
 </div>
